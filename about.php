@@ -24,7 +24,7 @@
       style="height: 40px">
       
       <div class="container">
-      <button class="navbar-toggler"data-toggle="collapse" data-target="#shivam2">
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#shivam2">
                     <span class="navbar-toggler-icon"> </span>
                   </button>   
                   <div class="dropdown collapse navbar-collapse" id="shivam2">      
