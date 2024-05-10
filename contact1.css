@@ -1,0 +1,154 @@
+.img-jumbo{
+    background-image: url(jumbotron\ image.jpg);
+    background-size: 100% 100%;
+    height: 400px;
+}
+.boxdiv{
+    background-color: darkgray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+
+}
+.boxdiv2{
+    background-color: darkgray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+.boxdiv3{
+    background-color: darkgray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+
+.boxdiv i{
+    font-size: 50px;
+   padding-top: 30px;
+
+}
+.boxdiv2 i{
+    font-size: 50px;
+    padding-top: 30px;
+}
+.boxdiv3 i{
+    font-size: 50px;
+    padding-top: 30px;
+}
+.boxdiv h2{
+    padding-top: 20px;
+}
+.boxdiv2 h2{
+    padding-top: 30px;
+}
+.boxdiv3 h2{
+    padding-top: 30px;
+}
+.name{
+    width:300px;
+    height: 40px;
+    border-radius:10px;
+    margin-top: 20px;
+}
+.phone{
+    width:300px;
+    height: 40px;
+    border-radius:10px;
+    margin-top: 20px;
+}
+.email{
+    width:300px;
+    height: 40px;
+    border-radius:10px;
+    margin-top: 20px;
+}
+.subject{
+    width:300px;
+    height: 40px;
+    border-radius:10px;
+    margin-top: 20px;
+}
+.text{
+    width:300px;
+    height: 100px;
+    border-radius:10px;
+    margin-top: 20px;
+}
+.btn{
+    width:300px;
+    height: 40px;
+    border-radius:10px;
+    margin-top: 20px;
+    background-color:orangered;
+    font-size: 20px;
+}
+.formdiv{
+    border-radius: 10px;
+    border:none;
+    background-image:linear-gradient(#ffffff, #7abbf8);
+}
+.rs-footer {
+    background-color: #0978a6;
+    color: #fff;
+    margin-top: 500px;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+html, body {
+    font-size: 15px;
+    color: #505050;
+    font-family: 'Play', sans-serif;
+    vertical-align: baseline;
+    line-height: 26px;
+    font-weight: 400;
+    overflow-x: hidden;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+::selection {
+    background: #172b88;
+    text-shadow: none;
+    color: #ffffff;
+}
+

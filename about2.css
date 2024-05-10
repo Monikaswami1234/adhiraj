@@ -1,0 +1,131 @@
+ 
+
+
+.textsize{
+    font-size: 20px;
+    margin: 20px;
+}
+
+.rs-breadcrumbs img {
+    width: 100%;
+}
+
+.rs-breadcrumbs .breadcrumbs-inner {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 11;
+    top: 65%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    max-width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Play', sans-serif;
+    color: #57b952;
+    margin: 0 0 5px;
+    font-weight: 700;
+   
+}
+.rs-breadcrumbs ul {
+    display: inline-block;
+    padding: 4px 20px;
+}
+ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    
+}
+
+
+
+
+
+.rs-footer {
+    background-color: #0978a6;
+    color: #fff;
+    margin-top: 500px;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+html, body {
+    font-size: 15px;
+    color: #505050;
+    font-family: 'Play', sans-serif;
+    vertical-align: baseline;
+    line-height: 26px;
+    font-weight: 400;
+    overflow-x: hidden;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+::selection {
+    background: #172b88;
+    text-shadow: none;
+    color: #ffffff;
+}
+/* .img-jumbo{
+    background-image: url("about\ images/about image adhiraj.png");
+}
+.img-jumbo{
+    background-size: 100% 100%;
+    height: 600px;
+} */
+.aboutimage{
+    width: 1300px;
+   
+}
+.aboutcontent{
+    background-image: linear-gradient(45deg, #e9ecef, transparent);
+
+}
+
